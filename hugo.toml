@@ -3,3 +3,7 @@ languageCode = 'fr'
 title = 'Theo Imfeld'
 
 theme = "pehtheme" 
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
