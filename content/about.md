@@ -29,4 +29,5 @@ Pour organiser mon travail et mes projets, j'ai structuré mes compétences auto
 - Création de Contenu : Storytelling, création visuelle, digitale et campagnes publicitaires.
 - Digital & Social Media : Gestion de l'image de marque sur les réseaux sociaux et relations médias.
 
-![ficheMetier](/images/LabVeilTec.jpg)
+![ficheMetier
+](/images/LabVeilTec.jpg)
