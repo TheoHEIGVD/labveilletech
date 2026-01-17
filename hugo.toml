@@ -4,6 +4,22 @@ title = 'Theo Imfeld'
 
 theme = "pehtheme" 
 
+[menus]
+  [[menus.main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+  [[menus.main]]
+  name = "Posts"
+  pageRef = "/posts"
+  weight = 20
+
+  [[menus.main]]
+  name = "About"
+  pageRef = "/about"
+  weight = 30
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'

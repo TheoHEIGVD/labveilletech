@@ -10,7 +10,7 @@ Dans le monde de la publicité, la règle d’or est souvent de mettre le produi
 ## Résumé de la campagne
 IKEA montre ses produits les plus iconiques (la chaise haute Antilop, le lit bébé Smågöra, ou encore le marchepied Bolmen), mais ils ne sont pas utilisés. À la place, on voit un enfant dormir sur le torse de son parent plutôt que dans son berceau, ou un bambin manger sur les genoux de son père plutôt que sur sa chaise haute. Le message est clair : IKEA est fièrement le deuxième meilleur choix. Le premier étant, et restera toujours, le lien humain.
 
-[Lien](https://www.instagram.com/p/DQT9iD2Atgq/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ%3D%3D&img_index=3)
+[Lien de la campagne](https://www.instagram.com/p/DQT9iD2Atgq/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ%3D%3D&img_index=3)
 
 ## Ce que j’apprécie dans cette démarche
 Ce qui me frappe et me séduit dans cette campagne, c’est le passage d’un marketing « produit » à un marketing « humain ».

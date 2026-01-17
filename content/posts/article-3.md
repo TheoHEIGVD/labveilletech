@@ -12,7 +12,7 @@ Mais une révolution est en marche, illustrée par le partenariat entre le Paris
 L'article nous présente comment le PSG utilise la technologie de CrowdIQ, une solution d'analyse par intelligence artificielle. 
 Grâce à la vision par ordinateur, le club est désormais capable de scanner les tribunes pour obtenir des données ultra-précises sur son public : âge, genre, mais aussi et surtout, le niveau d'attention et les réactions émotionnelles des fans en temps réel.
 
-[Lien](https://patrickbayeux.com/actualites/fin-de-lintuition-crowdiq-psg-sponsoring-mesurable/)
+[Lien de l'article](https://patrickbayeux.com/actualites/fin-de-lintuition-crowdiq-psg-sponsoring-mesurable/)
 
 ## Ce que je trouve intéressant dans cette article
 Ce que je trouve particulièrement fascinant dans cette évolution, c'est la place que prend l'hyper-personnalisation dans les stratégies actuelles.
