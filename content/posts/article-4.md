@@ -22,7 +22,7 @@ La marque a également troqué son célèbre « Leaper » (le jaguar bondissant)
 l’entreprise a tenté de se mettre à jour en affichant une ouverture à la diversité et une rupture totale avec les codes classiques, mais elle a fini par saboter sa propre réputation.
 
 ### La diversité comme unique message, au détriment du produit
-PEn voulant absolument montrer qu'elle était une marque inclusive et tournée vers l'avenir, Jaguar a oublié de rappeler pourquoi elle était aimée. Pour un constructeur automobile, l'absence de véhicule dans une campagne de lancement est un message d'une violence inouïe pour les passionnés. L'hyper-personnalisation et l'accent mis sur la diversité ont été perçus non pas comme une évolution naturelle, mais comme une tentative forcée d'adopter des codes marketing « à la mode », au point d'en devenir caricaturaux.
+En voulant absolument montrer qu'elle était une marque inclusive et tournée vers l'avenir, Jaguar a oublié de rappeler pourquoi elle était aimée. Pour un constructeur automobile, l'absence de véhicule dans une campagne de lancement est un message d'une violence inouïe pour les passionnés. L'hyper-personnalisation et l'accent mis sur la diversité ont été perçus non pas comme une évolution naturelle, mais comme une tentative forcée d'adopter des codes marketing « à la mode », au point d'en devenir caricaturaux.
 
 ### La destruction d'un héritage séculaire 
 Jaguar représentait l'élégance britannique, le sport et une certaine idée du prestige. En voulant « casser les codes », la marque a littéralement jeté son patrimoine par la fenêtre.

@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://theoheigvd.github.io/labveilletech/</loc>
+    <loc>http://localhost:59392/labveilletech/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://theoheigvd.github.io/labveilletech/posts/</loc>
+    <loc>http://localhost:59392/labveilletech/posts/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://theoheigvd.github.io/labveilletech/posts/article-4/</loc>
+    <loc>http://localhost:59392/labveilletech/posts/article-4/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://theoheigvd.github.io/labveilletech/posts/article-3/</loc>
+    <loc>http://localhost:59392/labveilletech/posts/article-3/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://theoheigvd.github.io/labveilletech/posts/article-2/</loc>
+    <loc>http://localhost:59392/labveilletech/posts/article-2/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://theoheigvd.github.io/labveilletech/posts/article-1__apprendre-avec-les-llm/</loc>
+    <loc>http://localhost:59392/labveilletech/posts/article-1__apprendre-avec-les-llm/</loc>
     <lastmod>2024-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://theoheigvd.github.io/labveilletech/posts/article-0__mon-systeme-de-veille/</loc>
+    <loc>http://localhost:59392/labveilletech/posts/article-0__mon-systeme-de-veille/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://theoheigvd.github.io/labveilletech/about/</loc>
+    <loc>http://localhost:59392/labveilletech/about/</loc>
   </url><url>
-    <loc>https://theoheigvd.github.io/labveilletech/categories/</loc>
+    <loc>http://localhost:59392/labveilletech/categories/</loc>
   </url><url>
-    <loc>https://theoheigvd.github.io/labveilletech/tags/</loc>
+    <loc>http://localhost:59392/labveilletech/tags/</loc>
   </url>
 </urlset>

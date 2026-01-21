@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accueil on Theo Imfeld</title>
-    <link>https://theoheigvd.github.io/labveilletech/</link>
+    <link>http://localhost:59392/labveilletech/</link>
     <description>Recent content in Accueil on Theo Imfeld</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://theoheigvd.github.io/labveilletech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59392/labveilletech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quand le rebranding efface l&#39;héritage.</title>
-      <link>https://theoheigvd.github.io/labveilletech/posts/article-4/</link>
+      <link>http://localhost:59392/labveilletech/posts/article-4/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://theoheigvd.github.io/labveilletech/posts/article-4/</guid>
+      <guid>http://localhost:59392/labveilletech/posts/article-4/</guid>
       <description>&lt;p&gt;Dans l&amp;rsquo;industrie automobile, l&amp;rsquo;héritage est souvent l&amp;rsquo;atout le plus précieux. Pourtant, Jaguar a récemment pris le pari risqué de rompre totalement avec son passé pour embrasser une modernité ultra-conceptuelle. Un choix qui a déclenché une tempête médiatique et une remise en question interne.&lt;/p&gt;&#xA;&lt;h2 id=&#34;résumé-de-larticle&#34;&gt;Résumé de l’article&lt;/h2&gt;&#xA;&lt;p&gt;Fin 2024, Jaguar a dévoilé sa nouvelle identité visuelle pour accompagner son virage vers le tout-électrique de luxe. Le résultat ?&#xA;Une campagne intitulée &amp;ldquo;Copy Nothing&amp;rdquo; (Ne rien copier) mettant en scène des mannequins aux tenues exubérantes dans un univers coloré et abstrait&amp;hellip; mais sans aucune voiture à l’image.&#xA;La marque a également troqué son célèbre « Leaper » (le jaguar bondissant) contre un logo minimaliste. Ce changement radical a provoqué un tollé massif sur les réseaux sociaux, de nombreux fans et observateurs (dont Elon Musk) accusant la marque de « wokisme » et de renier son ADN de constructeur de voitures de luxe et de performance pour une posture purement idéologique.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sponsoring sportif : La fin de l’intuition au profit de la donnée</title>
-      <link>https://theoheigvd.github.io/labveilletech/posts/article-3/</link>
+      <link>http://localhost:59392/labveilletech/posts/article-3/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://theoheigvd.github.io/labveilletech/posts/article-3/</guid>
+      <guid>http://localhost:59392/labveilletech/posts/article-3/</guid>
       <description>&lt;p&gt;Dans le milieu du marketing sportif, on a longtemps fonctionné au &amp;ldquo;flair&amp;rdquo; ou à la simple visibilité médiatique (temps d&amp;rsquo;antenne, logos vus à la télé).&#xA;Mais une révolution est en marche, illustrée par le partenariat entre le Paris Saint-Germain et CrowdIQ.&lt;/p&gt;&#xA;&lt;h2 id=&#34;résumé-de-larticle&#34;&gt;Résumé de l’article&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;article nous présente comment le PSG utilise la technologie de CrowdIQ, une solution d&amp;rsquo;analyse par intelligence artificielle.&#xA;Grâce à la vision par ordinateur, le club est désormais capable de scanner les tribunes pour obtenir des données ultra-précises sur son public : âge, genre, mais aussi et surtout, le niveau d&amp;rsquo;attention et les réactions émotionnelles des fans en temps réel.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quand le produit s’efface pour laisser place à la vie</title>
-      <link>https://theoheigvd.github.io/labveilletech/posts/article-2/</link>
+      <link>http://localhost:59392/labveilletech/posts/article-2/</link>
       <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://theoheigvd.github.io/labveilletech/posts/article-2/</guid>
+      <guid>http://localhost:59392/labveilletech/posts/article-2/</guid>
       <description>&lt;p&gt;Dans le monde de la publicité, la règle d’or est souvent de mettre le produit sur un piédestal, d’en vanter chaque couture, chaque fonctionnalité et chaque bénéfice. Pourtant, IKEA a récemment pris le contre-pied total de cette approche avec une campagne montrant que la valeur d&amp;rsquo;un article ne réside pas dans son esthétique intrinsèque, mais dans la manière dont il s&amp;rsquo;efface pour laisser la vie s&amp;rsquo;exprimer autour de lui.&lt;/p&gt;&#xA;&lt;h2 id=&#34;résumé-de-la-campagne&#34;&gt;Résumé de la campagne&lt;/h2&gt;&#xA;&lt;p&gt;IKEA montre ses produits les plus iconiques (la chaise haute Antilop, le lit bébé Smågöra, ou encore le marchepied Bolmen), mais ils ne sont pas utilisés. À la place, on voit un enfant dormir sur le torse de son parent plutôt que dans son berceau, ou un bambin manger sur les genoux de son père plutôt que sur sa chaise haute. Le message est clair : IKEA est fièrement le deuxième meilleur choix. Le premier étant, et restera toujours, le lien humain.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apprendre avec les LLM dans mon domaine</title>
-      <link>https://theoheigvd.github.io/labveilletech/posts/article-1__apprendre-avec-les-llm/</link>
+      <link>http://localhost:59392/labveilletech/posts/article-1__apprendre-avec-les-llm/</link>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://theoheigvd.github.io/labveilletech/posts/article-1__apprendre-avec-les-llm/</guid>
+      <guid>http://localhost:59392/labveilletech/posts/article-1__apprendre-avec-les-llm/</guid>
       <description>&lt;p&gt;Évoluant dans une filière directement confrontée aux avancées rapides et constantes des modèles de langage (LLM), je me questionne sur leur impact futur sur nos métiers.&#xA;Ces outils, dont les performances ne cessent de s’améliorer, pourraient un jour égaler voire surpasser certaines productions que nous réalisons aujourd’hui.&lt;/p&gt;&#xA;&lt;p&gt;Une question centrale se pose alors : est-il nécessaire d’apprendre à travailler avec ces technologies afin de mieux comprendre leur fonctionnement et de savoir les utiliser intelligemment comme outils ? Ou, au contraire, faut-il chercher à rester le plus autonome possible, au risque de développer une dépendance excessive à ces systèmes  par la suite ?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mon système de veille, mes abonnements, ma routine</title>
-      <link>https://theoheigvd.github.io/labveilletech/posts/article-0__mon-systeme-de-veille/</link>
+      <link>http://localhost:59392/labveilletech/posts/article-0__mon-systeme-de-veille/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://theoheigvd.github.io/labveilletech/posts/article-0__mon-systeme-de-veille/</guid>
+      <guid>http://localhost:59392/labveilletech/posts/article-0__mon-systeme-de-veille/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Dans le cadre du cours LabVeilTech, il nous a été demandé de rédiger un article expliquant la manière dont nous préparons la suite de notre formation, et plus précisément la façon dont nous nous informons sur le métier que nous souhaitons exercer à l’issue de ce cursus.&lt;/p&gt;&#xA;&lt;p&gt;À ce stade de mon parcours, j’ai encore des difficultés à définir précisément le métier que je souhaite exercer par la suite. Toutefois, à travers les différentes études et exercices menés dans le cadre de ce cours, j’ai choisi d’orienter mon système de veille vers un métier à la fois polyvalent et relationnel. C’est dans cette optique que mon choix s’est porté sur les fonctions de Responsable en communication/ chef de projet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>À propos</title>
-      <link>https://theoheigvd.github.io/labveilletech/about/</link>
+      <link>http://localhost:59392/labveilletech/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://theoheigvd.github.io/labveilletech/about/</guid>
+      <guid>http://localhost:59392/labveilletech/about/</guid>
       <description>&lt;p&gt;Je me définis comme Responsable en Communication et Chef de Projet, évoluant à l&amp;rsquo;intersection de la communication, du marketing et de la gestion de projet.&lt;/p&gt;&#xA;&lt;h2 id=&#34;pourquoi-ce-domaine-&#34;&gt;Pourquoi ce domaine ?&lt;/h2&gt;&#xA;&lt;p&gt;il me permet d&amp;rsquo;explorer des territoires variés : passer d&amp;rsquo;une réflexion stratégique globale à la conception de contenus digitaux, tout en assurant la cohésion d&amp;rsquo;une équipe&#xA;Pour moi, la communication n&amp;rsquo;est pas qu&amp;rsquo;une question de visibilité, c&amp;rsquo;est l&amp;rsquo;art d&amp;rsquo;allier créativité, organisation et relations humaines&lt;/p&gt;</description>
     </item>
   </channel>

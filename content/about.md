@@ -13,7 +13,7 @@ Pour moi, la communication n'est pas qu'une question de visibilité, c'est l'art
 
 ## Mon Ikigai
 
-![Mon Ikigai](/images/ikigai.jpg)
+![Mon Ikigai](../images/ikigai.jpg)
 
 Ma démarche professionnelle trouve sa source profonde dans mon Ikigai, ce point d'équilibre personnel où se rejoignent mes passions et mes aspirations profondes.
 Nourri par l'art, la photographie et la peinture, je puise dans cet héritage créatif pour façonner mes projets avec une sensibilité esthétique qui m'est propre.
@@ -29,5 +29,4 @@ Pour organiser mon travail et mes projets, j'ai structuré mes compétences auto
 - Création de Contenu : Storytelling, création visuelle, digitale et campagnes publicitaires.
 - Digital & Social Media : Gestion de l'image de marque sur les réseaux sociaux et relations médias.
 
-![ficheMetier
-](/images/LabVeilTec.jpg)
+![ficheMetier](../images/LabVeilTec.jpg)
