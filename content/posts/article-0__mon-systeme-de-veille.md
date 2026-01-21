@@ -62,7 +62,7 @@ Je consulte régulièrement des articles spécialisés liés au secteur de la co
 Vous trouverez ci-dessous quelques exemples d’articles que je développerai plus en détail dans un prochain article.
 
 - [Trop «woke», trop décalée... Jaguar voudrait déjà revoir sa stratégie de communication / le figaro](https://www.lefigaro.fr/automobile/accusee-d-avoir-ete-trop-wokiste-jaguar-chercherait-de-nouveau-a-changer-de-strategie-20250522)
-- [La fin de l’intuition, l’avènement de la donnée : avec CrowdIQ le PSG invente le sponsoring mesurable / Patrick Bayeux](https://www.lefigaro.fr/automobile/accusee-d-avoir-ete-trop-wokiste-jaguar-chercherait-de-nouveau-a-changer-de-strategie-20250522)
+- [La fin de l’intuition, l’avènement de la donnée : avec CrowdIQ le PSG invente le sponsoring mesurable / Patrick Bayeux](https://patrickbayeux.com/actualites/fin-de-lintuition-crowdiq-psg-sponsoring-mesurable/)
 
 
 ## Ma Routine Quotidienne
